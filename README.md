@@ -1,12 +1,1 @@
-### Fichier de base pour commencer un mini-projet 
-
-Avec : 
-* des photos randoms
-* une navbar toute faite
-* un body tout fait
-* des sons
-* des svg
-* jQuery et Bootstrap reliés
-
-#### Démarrer projet avec Sass 
-* `npm run sass`
+Ne voler pas le code les bg sa sert a rien il est éclater et c'est mon premier site ^^ 

@@ -61,7 +61,7 @@ class Question {
     },
     endQuiz: function() {
       endQuizHTML = `
-        <h1>Quiz terminé ! bravo a toi ! tu a vue juste !</h1>
+        <h1>Quiz terminé, bravo a toi ! tu a vue juste !</h1>
         <h3> Votre score est de : ${quiz.score} / ${quiz.questions.length}</h3>`;
       this.elementShown("quiz", endQuizHTML);
     },
